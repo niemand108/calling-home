@@ -1,3 +1,4 @@
+```
                                                           ┌──────►  INT arduino
                                                           │
                                                           │
@@ -33,3 +34,4 @@
                                         external GND
                                         
                                         
+```

@@ -1,3 +1,4 @@
+Feel free to add resistors and capacitors in some places
 ```
                                                           ┌──────►  INT arduino
                                                           │
